@@ -1,1 +1,0 @@
-"use strict";(()=>{var a=["rojo","verde","azul","amarillo","morado","Menta verde","teal","blanco","negro","Naranja","Rosa","gris","marr\xF3n","violeta","turquesa","tan","cielo azul","salm\xF3n","ciruela","orqu\xEDdea","aceituna","magenta","Lima","marfil","\xEDndigo","oro","fucsia","cian","azul","lavanda","plata"];})();

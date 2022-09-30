@@ -1,1 +1,0 @@
-"use strict";(()=>{var a=["{{name.last_name}} {{company.suffix}}","{{name.last_name}}-{{name.last_name}}","{{name.last_name}}, {{name.last_name}} og {{name.last_name}}"];var n=["Gruppen","AS","ASA","BA","RFH","og S\xF8nner"];var e={name_patterns:a,suffix:n},f=e;})();

@@ -1,1 +1,0 @@
-"use strict";(()=>{var a=["Alternatywna","Blues","Country","Disco polo","Elektroniczna","Funk","Hip Hop","Indie Pop","Jazz","Klasyczna","Latynoska","Ludowa","Metal","Pop","Rap","Reggae","Rock","Soul"];})();

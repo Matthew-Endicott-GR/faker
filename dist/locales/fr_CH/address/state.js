@@ -1,1 +1,0 @@
-"use strict";(()=>{var e=["Argovie","Appenzell Rhodes-Int\xE9rieures","Appenzell Rhodes-Ext\xE9rieures","B\xE2le-Ville","B\xE2le-Campagne","Berne","Fribourg","Gen\xE8ve","Glaris","Grisons","Jura","Lucerne","Neuch\xE2tel","Nidwald","Obwald","Schaffhouse","Schwyt","Soleure","Saint-Gall","Thurgovie","Tessin","Uri","Valai","Vaud","Zoug","Zurich"];})();

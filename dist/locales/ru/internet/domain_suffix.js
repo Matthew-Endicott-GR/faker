@@ -1,1 +1,0 @@
-"use strict";(()=>{var o=["biz","club","com","edo","info","host","moscow","net","org","online","press","pro","ru","rus","space","store","su","tech","\u043C\u043E\u0441\u043A\u0432\u0430","\u043E\u043D\u043B\u0430\u0439\u043D","\u0440\u0444","\u0441\u0430\u0439\u0442"];})();

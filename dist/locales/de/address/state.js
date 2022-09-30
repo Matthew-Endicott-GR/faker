@@ -1,1 +1,0 @@
-"use strict";(()=>{var e=["Baden-W\xFCrttemberg","Bayern","Berlin","Brandenburg","Bremen","Hamburg","Hessen","Mecklenburg-Vorpommern","Niedersachsen","Nordrhein-Westfalen","Rheinland-Pfalz","Saarland","Sachsen","Sachsen-Anhalt","Schleswig-Holstein","Th\xFCringen"];})();

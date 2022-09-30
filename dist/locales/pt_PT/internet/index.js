@@ -1,1 +1,0 @@
-"use strict";(()=>{var o=["pt","gov.pt","com.pt","org.pt","eu","com","biz","info","name","net","org"];var t=["gmail.com","yahoo.com","hotmail.com","outlook.com","live.com","portugalmail.pt","mail.pt","sapo.pt","aeiou.pt"];var e={domain_suffix:o,free_email:t},n=e;})();

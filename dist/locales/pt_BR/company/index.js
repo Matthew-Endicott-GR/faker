@@ -1,1 +1,0 @@
-"use strict";(()=>{var a=["{{name.last_name}} {{company.suffix}}","{{name.last_name}}-{{name.last_name}}","{{name.last_name}}, {{name.last_name}} e {{name.last_name}}"];var e=["S.A.","LTDA","EIRELI","e Associados","Com\xE9rcio"];var m={name_patterns:a,suffix:e},i=m;})();

@@ -1,1 +1,0 @@
-"use strict";(()=>{var o=["{{company.prefix}} {{name.first_name}}","{{name.first_name}} {{company.suffix}}"];var t=["\uC8FC\uC2DD\uD68C\uC0AC","\uD55C\uAD6D"];var e=["\uC5F0\uAD6C\uC18C","\uAC8C\uC784\uC988","\uADF8\uB8F9","\uC804\uC790","\uBB3C\uC0B0","\uCF54\uB9AC\uC544"];var f={name_patterns:o,prefix:t,suffix:e},s=f;})();

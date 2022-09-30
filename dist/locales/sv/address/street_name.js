@@ -1,1 +1,0 @@
-"use strict";(()=>{var r=["Bj\xF6rk","J\xE4rnv\xE4gs","Ring","Skol","Skogs","Ny","Gran","Idrotts","Stor","Kyrk","Industri","Park","Strand","Skol","Tr\xE4dg\xE5rd","\xC4ngs","Kyrko","Villa","Ek","Kvarn","Stations","Back","Furu","Gen","Fabriks","\xC5ker","B\xE4ck","Asp"];})();

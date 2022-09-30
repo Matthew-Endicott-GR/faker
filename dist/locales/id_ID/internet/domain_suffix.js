@@ -1,1 +1,0 @@
-"use strict";(()=>{var i=["com","net","org","asia","tv","biz","info","in","name","co","id","ac.id","sch.id","go.id","mil.id","co.id","or.id","web.id","my.id","net.id","biz.id","desa.id","ponpes.id"];})();

@@ -70,3 +70,5 @@ export { Faker };
 export const faker: Faker = new Faker({
   locales: allLocales,
 });
+
+window.faker = faker;

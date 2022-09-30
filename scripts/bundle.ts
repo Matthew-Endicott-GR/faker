@@ -1,14 +1,16 @@
 import { buildSync } from 'esbuild';
-import { sync as globSync } from 'glob';
 
 console.log('Building dist for node (cjs)...');
 
 buildSync({
-  entryPoints: globSync('./src/**/*.ts'),
-  outdir: './dist',
+  entryPoints: ['./src/index.ts'],
+  // outdir: './dist',
+  outfile: './dist/bundle.js',
   bundle: true,
-  sourcemap: false,
   minify: true,
+  // globalName: 'faker',
+  target: ['chrome58'],
+  format: 'iife',
 });
 
 // // Generate entry-points for cjs compatibility

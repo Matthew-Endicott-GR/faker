@@ -1,1 +1,0 @@
-"use strict";(()=>{var d=["p\xF3\u0142noc","wsch\xF3d","po\u0142udnie","zach\xF3d","p\xF3\u0142nocny wsch\xF3d","po\u0142udniowy wsch\xF3d","po\u0142udniowy zach\xF3d","p\xF3\u0142nocny zach\xF3d"];})();

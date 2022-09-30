@@ -1,1 +1,0 @@
-"use strict";(()=>{var d=["berg","borg","by","b\xF8","dal","eid","fjell","fjord","foss","grunn","hamn","havn","helle","mark","nes","odden","sand","sj\xF8en","stad","strand","str\xF8m","sund","vik","v\xE6r","v\xE5g","\xF8","\xF8y","\xE5s"];})();

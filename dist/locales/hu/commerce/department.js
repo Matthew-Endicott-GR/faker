@@ -1,1 +1,0 @@
-"use strict";(()=>{var e=["K\xF6nyv","Film","Zene","J\xE1t\xE9k","Elektronika","Sz\xE1m\xEDt\xF3g\xE9p","Otthon","Kert","Szersz\xE1m","\xC9lelmiszer","Eg\xE9szs\xE9g","Sz\xE9ps\xE9g","J\xE1t\xE9kszer","Gyermek","Baba","Ruh\xE1zat","Cip\u0151","\xC9kszer","Sport","Szabadban","Aut\xF3","Ipari"];})();

@@ -1,1 +1,0 @@
-"use strict";(()=>{var d={normal:"{{address.street}}, \u067E\u0644\u0627\u06A9 {{address.buildingNumber}}",full:"{{address.street}}, \u067E\u0644\u0627\u06A9 {{address.buildingNumber}}  {{address.secondaryAddress}}"};})();

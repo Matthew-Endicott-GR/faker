@@ -52,11 +52,11 @@
     "tsconfig.json"
   ],
   "scripts": {
-    "clean": "rimraf coverage .eslintcache dist docs/.vitepress/dist pnpm-lock.yaml node_modules",
+    "clean": "rimraf dist",
     "build:clean": "rimraf dist",
     "build:code": "tsx ./scripts/bundle.ts",
     "build:types": "tsc --emitDeclarationOnly --outDir dist/types",
-    "build": "run-s build:clean build:code build:types",
+    "build": "run-s build:clean build:code",
     "generate:api-docs": "tsx ./scripts/apidoc.ts",
     "generate:locales": "tsx ./scripts/generateLocales.ts",
     "copy:mime-types": "tsx ./scripts/copyMimeTypes.ts",

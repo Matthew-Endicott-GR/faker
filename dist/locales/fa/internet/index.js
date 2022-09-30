@@ -1,1 +1,0 @@
-"use strict";(()=>{var e=["com","ir","info","net","org"];var o=["example.org","example.com","example.net"];var t=["gmail.com","yahoo.com","hotmail.com"];var m={domain_suffix:e,example_email:o,free_email:t},l=m;})();

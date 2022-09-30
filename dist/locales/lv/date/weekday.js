@@ -1,1 +1,0 @@
-"use strict";(()=>{var e={wide:["Sv\u0113tdiena","Pirmdiena","Otrdiena","Tre\u0161diena","Ceturtdiena","Piektdiena","Sestdiena"],wide_context:["sv\u0113tdien","pirmdien","otrdien","tre\u0161dien","ceturtdien","piektdien","sestdien"],abbr:["Pr","Ot","Tr","Ct","Pk","Se","Sv"],abbr_context:["sv.","pr.","otr.","tr.","cet.","pk.","se."]};})();

@@ -1,1 +1,0 @@
-"use strict";(()=>{var o=["Rock","Metal","Pop","\xC9lectronique","Folk","World","Country","Jazz","Funk","Soul","Hip Hop","Classique","Latine","Reggae","Blues","Rap","Vari\xE9t\xE9","Lofi"];var e={genre:o},r=e;})();

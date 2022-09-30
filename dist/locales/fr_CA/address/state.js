@@ -1,1 +1,0 @@
-"use strict";(()=>{var e=["Alberta","Colombie-Britannique","Manitoba","Nouveau-Brunswick","Terre-Neuve-et-Labrador","Nouvelle-\xC9cosse","Territoires du Nord-Ouest","Nunavut","Ontario","\xCEle-du-Prince-\xC9douard","Qu\xE9bec","Saskatchewan","Yukon"];})();

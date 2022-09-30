@@ -1,1 +1,0 @@
-"use strict";(()=>{var a=["{{name.last_name}} {{company.suffix}}","{{name.last_name}}-{{name.last_name}}","{{name.last_name}}, {{name.last_name}} {{company.suffix}}"];var n=["Gruppen","AB","HB","Group","Investment","Kommanditbolag","Aktiebolag"];var e={name_patterns:a,suffix:n},f=e;})();

@@ -1,1 +1,0 @@
-"use strict";(()=>{var o=["lv","com","info","net","org"];var t=["inbox.lv","one.lv","mail.lv","outlook.lv","apollo.lv","yahoo.com","hotmail.com","gmail.com"];var e={domain_suffix:o,free_email:t},r=e;})();

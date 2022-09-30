@@ -1,1 +1,0 @@
-"use strict";(()=>{var e=["Josep","\xC1ngel","Daniel","Manuel","Pedro","Salvador","Rub\xE9n","Iv\xE1n","Miguel","Jorge","Sergi","Josep","Ricardo","Carles","Jordi","Manuel","P\xEDo","Pablo","Juan Ram\xF3n","Hermenegildo"];})();

@@ -1,1 +1,0 @@
-"use strict";(()=>{var y=["be\u017Cowy","bia\u0142y","br\u0105zowy","czarny","czerwony","fioletowy","granatowy","niebieski","pomara\u0144czowy","r\xF3\u017Cowy","szary","zielony","\u017C\xF3\u0142ty"];})();

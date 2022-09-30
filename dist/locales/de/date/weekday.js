@@ -1,1 +1,0 @@
-"use strict";(()=>{var t={wide:["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],wide_context:["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],abbr:["So.","Mo.","Di.","Mi.","Do.","Fr.","Sa."],abbr_context:["So.","Mo.","Di.","Mi.","Do.","Fr.","Sa."]};})();

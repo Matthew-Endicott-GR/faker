@@ -1,1 +1,0 @@
-"use strict";(()=>{var r=["driver","protocol","bandwidth","panel","microchip","program","port","card","array","interface","system","sensor","firewall","hard drive","pixel","alarm","feed","monitor","application","transmitter","bus","circuit","capacitor","matrix"];})();
