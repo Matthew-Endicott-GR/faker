@@ -1,0 +1,1 @@
+"use strict";(()=>{var e=["back-uppen","omzeilen","hacken","overschrijven","samenpersen","kopi\xEBren","navigeren","indexeren","aansluiten","genereren","kwantificeren","berekenen","samenstellen","invoeren","verzenden","programmeren","herstarten","ontleden","in stukjes snijden","analyseren"];})();

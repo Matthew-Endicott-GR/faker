@@ -1,0 +1,1 @@
+"use strict";(()=>{var a=["{{name.last_name}} {{company.suffix}}","{{address.city_name}} {{company.suffix}}","{{name.last_name}}, {{name.last_name}} \u0438 {{name.last_name}}"];var e=["\u0414\u041E\u041E","\u0414\u041E\u041E\u0415\u041B","\u0410\u0414","\u0422\u041F"];var m={name_patterns:a,suffix:e},i=m;})();

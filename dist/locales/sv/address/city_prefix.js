@@ -1,0 +1,1 @@
+"use strict";(()=>{var r=["S\xF6der","Norr","V\xE4st","\xD6ster","Aling","Ar","Av","Bo","Br","B\xE5","Ek","En","Esk","Fal","G\xE4v","G\xF6te","Ha","Helsing","Karl","Krist","Kram","Kung","K\xF6","Lyck","Ny"];})();

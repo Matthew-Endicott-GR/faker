@@ -1,0 +1,1 @@
+"use strict";(()=>{function i(e){let r=`[@faker-js/faker]: ${e.deprecated} is deprecated`;e.since&&(r+=` since v${e.since}`),e.until&&(r+=` and will be removed in v${e.until}`),e.proposed&&(r+=`. Please use ${e.proposed} instead`),console.warn(`${r}.`)}})();

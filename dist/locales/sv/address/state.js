@@ -1,0 +1,1 @@
+"use strict";(()=>{var a=["Blekinge","Dalarna","Gotland","G\xE4vleborg","G\xF6teborg","Halland","J\xE4mtland","J\xF6nk\xF6ping","Kalmar","Kronoberg","Norrbotten","Skaraborg","Sk\xE5ne","Stockholm","S\xF6dermanland","Uppsala","V\xE4rmland","V\xE4sterbotten","V\xE4sternorrland","V\xE4stmanland","\xC4lvsborg","\xD6rebro","\xD6sterg\xF6tland"];})();

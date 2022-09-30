@@ -1,0 +1,1 @@
+"use strict";(()=>{var t={wide:["Pond\u011Bl\xED","\xDAter\xFD","St\u0159eda","\u010Dtvrtek","P\xE1tek","Sobota","Ned\u011Ble"],wide_context:["Pond\u011Bl\xED","\xDAter\xFD","St\u0159eda","\u010Dtvrtek","P\xE1tek","Sobota","Ned\u011Ble"],abbr:["Po","\xDAt","St","\u010Dt","P\xE1","So","Ne"],abbr_context:["Po","\xDAt","St","\u010Dt","P\xE1","So","Ne"]};})();

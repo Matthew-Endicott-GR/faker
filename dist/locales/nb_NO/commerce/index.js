@@ -1,0 +1,1 @@
+"use strict";(()=>{var e=["Barn","B\xF8ker","Dagligvarer","Datamaskiner","Elektronikk","Filmer","Hage og utemilj\xF8","Helse","Hjem","Kl\xE6r","Leker","Musikk","Sko","Skj\xF8nnhet","Spill","Smykker","Sport","Verkt\xF8y"];var r={department:e},o=r;})();

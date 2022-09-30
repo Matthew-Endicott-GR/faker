@@ -1,0 +1,1 @@
+"use strict";(()=>{var a={adjective:["Balaca","Ergonomik","Kobud","\u0130ntellektual","M\xF6ht\u0259\u015F\u0259m","\u0130nan\u0131lmaz","Fantastik","\u018Flveri\u015Fli","Parlaq","M\xFCk\u0259mm\u0259l"],material:["Polad","A\u011Fac","Beton","Plastik","Pamb\u0131q","Qranit","Rezin"],product:["Stul","Avtomobil","Kompyuter","Beret","Kulon","Stol","Sviter","K\u0259m\u0259r"]};})();

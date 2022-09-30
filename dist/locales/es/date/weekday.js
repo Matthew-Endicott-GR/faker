@@ -1,0 +1,1 @@
+"use strict";(()=>{var e={wide:["domingo","lunes","martes","mi\xE9rcoles","jueves","viernes","s\xE1bado"],abbr:["dom","lun","mar","mi\xE9","jue","vie","s\xE1b"],abbr_context:["dom.","lun.","mart.","mi\xE9rc.","juev.","vier.","s\xE1b."]};})();

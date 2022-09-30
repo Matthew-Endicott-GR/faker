@@ -1,0 +1,1 @@
+"use strict";(()=>{var e=["Aargau","Appenzell Ausserrhoden","Appenzell Innerrhoden","Basel-Land","Basel-Stadt","Bern","Freiburg","Genf","Glarus","Graub\xFCnden","Jura","Luzern","Neuenburg","Nidwalden","Obwalden","St. Gallen","Schaffhausen","Schwyz","Solothurn","Tessin","Thurgau","Uri","Waadt","Wallis","Zug","Z\xFCrich"];})();

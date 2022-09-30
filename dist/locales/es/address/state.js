@@ -1,0 +1,1 @@
+"use strict";(()=>{var a=["Andaluc\xEDa","Arag\xF3n","Principado de Asturias","Baleares","Canarias","Cantabria","Castilla-La Mancha","Castilla y Le\xF3n","Catalu\xF1a","Comunidad Valenciana","Extremadura","Galicia","La Rioja","Comunidad de Madrid","Navarra","Pa\xEDs Vasco","Regi\xF3n de Murcia"];})();

@@ -1,0 +1,1 @@
+"use strict";(()=>{var t={adjective:["Liten","Ergonomisk","Robust","Intelligent","S\xF6t","Otrolig","Fantastisk","Praktisk","Slimmad","Grym"],material:["St\xE5l","Metall","Tr\xE4","Betong","Plast","Bomull","Granit","Gummi","Latex"],product:["Stol","Bil","Dator","Handskar","Byxor","Skjorta","Bord","Skor","Hatt"]};})();

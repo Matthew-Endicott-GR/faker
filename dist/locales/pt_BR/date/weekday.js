@@ -1,0 +1,1 @@
+"use strict";(()=>{var a={wide:["Domingo","Segunda","Ter\xE7a","Quarta","Quinta","Sexta","S\xE1bado"],wide_context:["Domingo","Segunda","Ter\xE7a","Quarta","Quinta","Sexta","S\xE1bado"],abbr:["Dom","Seg","Ter","Qua","Qui","Sex","S\xE1b"],abbr_context:["Dom","Seg","Ter","Qua","Qui","Sex","S\xE1b"]};})();

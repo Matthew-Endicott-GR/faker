@@ -1,0 +1,1 @@
+"use strict";(()=>{var i=["com","net","org","asia","tv","biz","info","in","name","co","id","ac.id","sch.id","go.id","mil.id","co.id","or.id","web.id","my.id","net.id","biz.id","desa.id","ponpes.id"];var o=["gmail.com","yahoo.com","gmail.co.id","yahoo.co.id"];var e={domain_suffix:i,free_email:o},r=e;})();

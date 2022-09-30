@@ -1,0 +1,1 @@
+"use strict";(()=>{var a=["Livros","Filmes","M\xFAsica","Jogos","Eletr\xF4nicos","Computadores","Casa","Jardim","Ferramentas","Mercearia","Sa\xFAde","Beleza","Brinquedos","Crian\xE7as","Beb\xEA","Roupas","Sapatos","J\xF3ias","Esportes","Turismo","Automotivo","Industrial"];})();

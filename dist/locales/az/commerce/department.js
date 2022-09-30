@@ -1,0 +1,1 @@
+"use strict";(()=>{var a=["Kitablar","Filml\u0259r","musiqi","oyunlar","Elektronika","Kompyuterl\u0259r","Ev","\u0441\u0430\u0434\u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442","S\u0259hiyy\u0259","g\xF6z\u0259llik","Oyuncaqlar","u\u015Faq \xFC\xE7\xFCn","Geyim","Ayyaqqab\u0131","b\u0259z\u0259k","\u0130dman","turizm","Avtomobil"];})();

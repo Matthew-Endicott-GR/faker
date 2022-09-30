@@ -1,0 +1,1 @@
+"use strict";(()=>{var e=["partnerships","comunit\xE0","ROI","soluzioni","e-services","nicchie","tecnologie","contenuti","supply-chains","convergenze","relazioni","architetture","interfacce","mercati","e-commerce","sistemi","modelli","schemi","reti","applicazioni","metriche","e-business","funzionalit\xE0","esperienze","webservices","metodologie"];})();

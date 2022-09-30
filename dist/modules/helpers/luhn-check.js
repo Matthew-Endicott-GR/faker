@@ -1,0 +1,1 @@
+"use strict";(()=>{function c(e){return l(e)===0}function i(e){let n=l(e.replace(/L?$/,"0"));return n===0?0:10-n}function l(e){e=e.replace(/[\s-]/g,"");let n=0,u=!1;for(let r=e.length-1;r>=0;r--){let t=parseInt(e.substring(r,r+1));u&&(t*=2,t>9&&(t=t%10+1)),n+=t,u=!u}return n%10}})();
